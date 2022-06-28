@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/C++ Projects/Ds-Project/TreapNode.h
+User.h
+D:/C++ Projects/Ds-Project/User.h
+
+D:/C++ Projects/Ds-Project/User.h
+string
+-
+TreapNode.h
+D:/C++ Projects/Ds-Project/TreapNode.h
+
+D:/C++ Projects/Ds-Project/main.cpp
+iostream
+-
+sstream
+-
+fstream
+-
+string
+-
+User.h
+D:/C++ Projects/Ds-Project/User.h
+myList.h
+D:/C++ Projects/Ds-Project/myList.h
+
+D:/C++ Projects/Ds-Project/myList.h
+User.h
+D:/C++ Projects/Ds-Project/User.h
+iostream
+-
+
